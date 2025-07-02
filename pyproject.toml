@@ -1,0 +1,8 @@
+[project]
+name = "cloudtrail-to-working-list"
+version = "0.1.0"
+description = "CloudTrail log analyzer for IAM user activity tracking"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.0.0",
+]
